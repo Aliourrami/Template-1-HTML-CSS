@@ -1,3 +1,9 @@
 Template test 1 (HTML - CSS)
+
 Preview Template:
-<iframe src="https://imgflip.com/embed/3vqtdz"></iframe>
+
+![](Screenshots/Screenshot1.png)
+
+![](Screenshots/Screenshot2.png)
+
+![](Screenshots/Screenshot3.png)
