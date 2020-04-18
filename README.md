@@ -1,6 +1,6 @@
 Template test 1 (HTML - CSS)
 
-Preview Template:
+Preview Template: https://aliourrami.github.io/Template-1-HTML-CSS/
 
 ![](Screenshots/Screenshot1.png)
 
