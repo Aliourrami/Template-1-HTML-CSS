@@ -225,7 +225,7 @@ button.btn {
 
 .background {
     height: 100vh;
-    background-image: url("../Images/background/background1.webp");
+    background-image: url("https://raw.githubusercontent.com/Aliourrami/Template-1-HTML-CSS/master/Images/background/background2.webp");
     background-size: cover;
     background-attachment: fixed;
 }
